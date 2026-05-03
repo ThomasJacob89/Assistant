@@ -3,3 +3,4 @@ __pycache__/
 .env
 *.pyc
 msai.py
+main_old.py
